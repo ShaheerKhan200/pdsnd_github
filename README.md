@@ -16,3 +16,4 @@ new_york_city.csv
 
 ### Credits
 - Data provided by https://www.motivateco.com/
+- Project inspiration https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
