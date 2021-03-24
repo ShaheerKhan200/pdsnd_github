@@ -7,7 +7,7 @@ The project was created on 3/20/2021 and the README file was created on 3/25/202
 Bike Share Data Analysis for New York, Washington and Chicago
 
 ### Description
-The project encompasses Bike Share Data Analysis for New York, Washington and Chicago. In this project a python script was created which takes user input and outputs the key statistics and information about the dataset.
+The project encompasses Bike Share Data Analysis for New York, Washington and Chicago, to help uncover bike share usage patterns. In this project a python script was created which takes user input and outputs the key statistics and information about the dataset.
 
 ### Files used
 chicago.csv
@@ -15,4 +15,4 @@ washington.csv
 new_york_city.csv
 
 ### Credits
-No external links were used.
+- Data provided by https://www.motivateco.com/
