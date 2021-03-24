@@ -4,10 +4,10 @@
 The project was created on 3/20/2021 and the README file was created on 3/25/2021.
 
 ### Project Title
-Replace the Project Title
+Bike Share Data Analysis for New York, Washington and Chicago
 
 ### Description
-Describe what your project is about and what it does
+The project encompasses Bike Share Data Analysis for New York, Washington and Chicago. In this project a python script was created which takes user input and outputs the key statistics and information about the dataset.
 
 ### Files used
 Include the files used
