@@ -10,7 +10,9 @@ Bike Share Data Analysis for New York, Washington and Chicago
 The project encompasses Bike Share Data Analysis for New York, Washington and Chicago. In this project a python script was created which takes user input and outputs the key statistics and information about the dataset.
 
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+No external links were used.
